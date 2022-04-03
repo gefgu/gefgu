@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about _web development_, using **The Odin Project**.
-- 👯 I’m looking to collaborate on _open-source projects_.
+- 🌱 I’m currently learning about **_web development_**, using **The Odin Project**.
+- 👯 I’m looking to collaborate on **_open-source projects_**.
 - 🤔 I’m looking for help with **how to get a job in tech**.
-- 💬 Ask me about _basic html_, _basic css_ and _basic javascript_.
+- 💬 Ask me about **basic html**, **basic css** and **basic javascript**.
 - 📫 How to reach me: @codewithgustavo (Twitter)
 
 <img 
