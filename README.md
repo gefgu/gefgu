@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Gustavo Santos</h1>
- <h3 align="center">Wep Developer | Open Source Contributor </h3>
+ <h3 align="center">Web Developer | Open Source Contributor </h3>
  
 
 
