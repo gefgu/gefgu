@@ -18,12 +18,16 @@
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
 </p>
 
-# GitHub stats
+<h2 align="center">GitHub Stats 📊</h2>
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=gefgu&show_icons=true&theme=tokyonight" 
-/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gefgu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="43%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=gefgu&theme=discord&row=2&column=4"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="55%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=gefgu&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
+    </a>
+</div>
 
 <!--
 **gefgu/gefgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
