@@ -18,9 +18,12 @@
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
 </p>
 
+# GitHub stats
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=gefgu&show_icons=true&theme=tokyonight" 
 />
+[![trophy](https://github-profile-trophy.vercel.app/?username=gefgu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **gefgu/gefgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
