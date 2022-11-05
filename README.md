@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **_open-source projects_**.
 - 🤔 I’m looking for help with **how to get a job in tech**.
 - 💬 Ask me about **basic html**, **basic css** and **basic javascript**.
-- 📫 You can connect with me on [Twitter](https://twitter.com/codewithgustavo).
+- 📫 You can connect with me on [Twitter](https://twitter.com/codewithgustavo) and Discord (gefgu#6343).
 
 <p align="center">
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
