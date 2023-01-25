@@ -18,7 +18,7 @@
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
 </p>
 
-<h2 align="center">GitHub Stats 📊</h2>
+<h1 align="center">GitHub Stats 📊</h1>
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -29,7 +29,7 @@
     </a>
 </div>
 
-<h2 align="center">Projects I Contributed To 💻</h2>
+<h1 align="center">Projects I Contributed To 💻</h1>
 <p>Click to see contributions.</p>
 
 
