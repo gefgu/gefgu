@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about **_web development_** working on an early-stage **startup**.
 - 👯 I’m looking to collaborate on **_open-source projects_**.
-- 🤔 I’m looking for help with **how to be a better developer*.
+- 🤔 I’m looking for help with **how to be a better developer**.
 - 💬 Ask me about **web development**.
 - 📫 You can connect with me on [Twitter](https://twitter.com/codewithgustavo) and Discord (gefgu#6343).
 
