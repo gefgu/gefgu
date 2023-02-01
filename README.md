@@ -27,7 +27,10 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width="55%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=gefgu&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
     </a>
+ 
 </div>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gefgu&theme=dark&hide_border=true)
 
 <h1 align="center">Projects I Contributed To 💻</h1>
 <p>Click to see contributions.</p>
