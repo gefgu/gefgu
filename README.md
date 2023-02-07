@@ -31,6 +31,7 @@
 </div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gefgu&theme=dark&hide_border=true)
+[![wakatime](https://wakatime.com/badge/user/7c6c344e-602b-411d-b3e5-d76f87ecb2f4.svg)](https://wakatime.com/@7c6c344e-602b-411d-b3e5-d76f87ecb2f4)
 
 <h1 align="center">Projects I Contributed To 💻</h1>
 <p>Click to see contributions.</p>
