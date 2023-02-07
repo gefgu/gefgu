@@ -16,6 +16,7 @@
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
+ <a href="https://wakatime.com/@7c6c344e-602b-411d-b3e5-d76f87ecb2f4"><img src="https://wakatime.com/badge/user/7c6c344e-602b-411d-b3e5-d76f87ecb2f4.svg" alt="Total time coded since Apr 10 2020" /></a>
 </p>
 
 <h1 align="center">GitHub Stats 📊</h1>
@@ -31,7 +32,6 @@
 </div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gefgu&theme=dark&hide_border=true)
-[![wakatime](https://wakatime.com/badge/user/7c6c344e-602b-411d-b3e5-d76f87ecb2f4.svg)](https://wakatime.com/@7c6c344e-602b-411d-b3e5-d76f87ecb2f4)
 
 <h1 align="center">Projects I Contributed To 💻</h1>
 <p>Click to see contributions.</p>
