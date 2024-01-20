@@ -55,7 +55,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gefgu&theme=dark&hide_border=true)
 
-<h1 align="center">Projects I Contributed To 💻</h1>
+<h1 align="center">Communities I Contributed To 💻</h1>
 <p>Click to see contributions.</p>
 
 
@@ -68,6 +68,10 @@
 <a align="center" href="https://github.com/TheOdinProject/curriculum/pulls?q=author%3A%40me+">![Odin Project](https://user-images.githubusercontent.com/53129852/214555689-28111633-2d59-42e0-bb70-f15962b9720d.png)</a>
 
 
+<h1 align="center">Referrals 👥 </h1>
+
+![image](https://github.com/gefgu/gefgu/assets/53129852/6631cf57-fd64-47bc-95f2-8abe649783e8)
+![image](https://github.com/gefgu/gefgu/assets/53129852/d0c59dd4-4c9e-465f-a969-3158d0b21585)
 
 
 
