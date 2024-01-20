@@ -1,14 +1,36 @@
  <h1 align="center">Hi 👋, I'm Gustavo Santos</h1>
- <h3 align="center">Web Developer | Open Source Contributor </h3>
+ <h3 align="center">Web Developer | Open Source Contributor | Researcher </h3>
  
 
+👨‍💻 Name: Gustavo Henrique Bruno dos Santos
 
+📚 Major: Computer Engineering (3rd semester) at UTFPR
 
-- 🌱 I’m currently learning about **_web development_** working on an early-stage **startup**.
-- 👯 I’m looking to collaborate on **_open-source projects_**.
-- 🤔 I’m looking for help with **how to be a better developer**.
-- 💬 Ask me about **web development**.
-- 📫 You can connect with me on [Twitter](https://twitter.com/codewithgustavo) and Discord (gefgu#6343).
+🌐 Professional Experience:
+- 🛒 Worked at a Canadian e-commerce company at the age of 14.
+- 🖥 Developed Python programs to gather data from Amazon and automate processes.
+- 🤝 Collaborated in the development of Python programs.
+- 📊 Automated processes such as report generation and real-time spreadsheet updates.
+
+🌐 Community Involvement:
+- 👥 Active in open-source communities.
+- 🛠 Made over 30 contributions to various projects.
+- 📝 Dealt with quality control, documentation, and accessibility.
+- 🔄 Converted between different programming languages.
+- 🎉 Participated and won in Hacktoberfest 2022.
+
+🚀 Experience in a British Startup:
+- 💼 Worked on the development of the database structure.
+- 🛒 Contributed to the implementation of a platform for selling used clothes.
+- 🤝 Integrated various products, including delivery companies.
+
+🏆 Participation in Competitions:
+- 🏆 Won 3rd place in the Nasa Space Apps challenge in 2023.
+- 🥉 Achieved 4th place in UTF.c, a programming competition at UTFPR.
+
+🎯 Passion for Challenges:
+- 🤖 Programming enthusiast
+- 🏅 Actively involved in competitions to enhance knowledge.
 
 <p align="center">
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
@@ -37,13 +59,13 @@
 <p>Click to see contributions.</p>
 
 
-  <a align="center" href="https://github.com/patternfly/patternfly-react/pulls?q=is%3Apr+author%3Agefgu+is%3Aclosed">![patternfly](https://user-images.githubusercontent.com/53129852/214557679-718c05ed-1c94-4622-ae5e-f1a14ff14e65.png)</a>
-  <a align="center" href="https://github.com/grafana/grafana/pulls?q=is%3Apr+is%3Aclosed+author%3Agefgu">![grafana](https://user-images.githubusercontent.com/53129852/214550859-7d52c04b-0a37-4871-a609-03dc13f2dd80.png)</a>
-  <a align="center" href="https://github.com/TheAlgorithms/TypeScript/pulls?q=is%3Apr+is%3Aclosed+author%3Agefgu">![The Algorithms](https://user-images.githubusercontent.com/53129852/214551466-6c5328fe-f09e-40f7-a8fa-76a12ae2f4a4.png)</a>
-  <a align="center" href="https://github.com/matrix-org/matrix-react-sdk/pulls?q=is%3Apr+author%3Agefgu+is%3Aclosed+review%3Aapproved">![Matrix](https://user-images.githubusercontent.com/53129852/214552407-506d0fff-5796-4cdc-99e2-563b93b70c58.png)</a>
-  <a align="center" href="https://github.com/medusajs/medusa/pulls?q=is%3Apr+author%3Agefgu+review%3Aapproved+is%3Aclosed">![Medusa](https://user-images.githubusercontent.com/53129852/214554442-c5e55f4e-4d7f-45d0-b7bd-56b64a2afb1a.png)</a>
-  <a align="center" href="https://github.com/supabase/supabase/issues?q=author%3Agefgu+is%3Aclosed">![Supabase](https://user-images.githubusercontent.com/53129852/214555337-c1e06464-7cb6-4c97-8ba8-4d02bca15f91.png)</a>
-  <a align="center" href="https://github.com/TheOdinProject/curriculum/pulls?q=author%3A%40me+">![Odin Project](https://user-images.githubusercontent.com/53129852/214555689-28111633-2d59-42e0-bb70-f15962b9720d.png)</a>
+<a align="center" href="https://github.com/patternfly/patternfly-react/pulls?q=is%3Apr+author%3Agefgu+is%3Aclosed">![patternfly](https://user-images.githubusercontent.com/53129852/214557679-718c05ed-1c94-4622-ae5e-f1a14ff14e65.png)</a>
+<a align="center" href="https://github.com/grafana/grafana/pulls?q=is%3Apr+is%3Aclosed+author%3Agefgu">![grafana](https://user-images.githubusercontent.com/53129852/214550859-7d52c04b-0a37-4871-a609-03dc13f2dd80.png)</a>
+<a align="center" href="https://github.com/TheAlgorithms/TypeScript/pulls?q=is%3Apr+is%3Aclosed+author%3Agefgu">![The Algorithms](https://user-images.githubusercontent.com/53129852/214551466-6c5328fe-f09e-40f7-a8fa-76a12ae2f4a4.png)</a>
+<a align="center" href="https://github.com/matrix-org/matrix-react-sdk/pulls?q=is%3Apr+author%3Agefgu+is%3Aclosed+review%3Aapproved">![Matrix](https://user-images.githubusercontent.com/53129852/214552407-506d0fff-5796-4cdc-99e2-563b93b70c58.png)</a>
+<a align="center" href="https://github.com/medusajs/medusa/pulls?q=is%3Apr+author%3Agefgu+review%3Aapproved+is%3Aclosed">![Medusa](https://user-images.githubusercontent.com/53129852/214554442-c5e55f4e-4d7f-45d0-b7bd-56b64a2afb1a.png)</a>
+<a align="center" href="https://github.com/supabase/supabase/issues?q=author%3Agefgu+is%3Aclosed">![Supabase](https://user-images.githubusercontent.com/53129852/214555337-c1e06464-7cb6-4c97-8ba8-4d02bca15f91.png)</a>
+<a align="center" href="https://github.com/TheOdinProject/curriculum/pulls?q=author%3A%40me+">![Odin Project](https://user-images.githubusercontent.com/53129852/214555689-28111633-2d59-42e0-bb70-f15962b9720d.png)</a>
 
 
 
