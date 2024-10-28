@@ -4,7 +4,7 @@
 
 👨‍💻 Name: Gustavo Henrique Bruno dos Santos
 
-📚 Major: Computer Engineering (3rd semester) at UTFPR
+📚 Major: Computer Engineering (4th semester) at UTFPR
 
 🌐 Professional Experience:
 - 🛒 Worked at a Canadian e-commerce company at the age of 14.
